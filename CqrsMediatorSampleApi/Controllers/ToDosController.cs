@@ -1,6 +1,4 @@
 ﻿using CqrsMediatorSampleApi.Commands;
-using CqrsMediatorSampleApi.Models;
-using CqrsMediatorSampleApi.Repositories;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
